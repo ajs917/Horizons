@@ -58,9 +58,9 @@ body {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #212529;
+  color: #ffffff;
   text-align: left;
-  background-color: #fff;
+  background-color: #000000;
 }
 
 [tabindex="-1"]:focus {
@@ -153,7 +153,7 @@ sup {
 }
 
 a {
-  color: #007bff;
+  color: #ffffff;
   text-decoration: none;
   background-color: transparent;
 }
@@ -368,26 +368,32 @@ h1, h2, h3, h4, h5, h6,
 
 h1, .h1 {
   font-size: 2.5rem;
+  color:#FFFFFF
 }
 
 h2, .h2 {
   font-size: 2rem;
+  color:#FFFFFF
 }
 
 h3, .h3 {
   font-size: 1.75rem;
+  color:#FFFFFF
 }
 
 h4, .h4 {
   font-size: 1.5rem;
+  color:#FFFFFF
 }
 
 h5, .h5 {
   font-size: 1.25rem;
+  color:#FFFFFF
 }
 
 h6, .h6 {
   font-size: 1rem;
+  color:#FFFFFF
 }
 
 .lead {
@@ -435,7 +441,7 @@ small,
 mark,
 .mark {
   padding: 0.2em;
-  background-color: #fcf8e3;
+  background-color: #6c757d;
 }
 
 .list-unstyled {
@@ -1863,7 +1869,7 @@ pre code {
   font-weight: 400;
   line-height: 1.5;
   color: #495057;
-  background-color: #fff;
+  background-color: #6c757d;
   background-clip: padding-box;
   border: 1px solid #ced4da;
   border-radius: 0.25rem;
@@ -4557,7 +4563,7 @@ input[type="button"].btn-block {
   flex-direction: column;
   min-width: 0;
   word-wrap: break-word;
-  background-color: #fff;
+  background-color: #6c757d;
   background-clip: border-box;
   border: 1px solid rgba(0, 0, 0, 0.125);
   border-radius: 0.25rem;
@@ -4807,7 +4813,7 @@ input[type="button"].btn-block {
   padding: 0.75rem 1rem;
   margin-bottom: 1rem;
   list-style: none;
-  background-color: #e9ecef;
+  background-color: #212529;
   border-radius: 0.25rem;
 }
 
@@ -9913,11 +9919,11 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .text-body {
-  color: #212529 !important;
+  color: #FFFFFF !important;
 }
 
 .text-muted {
-  color: #6c757d !important;
+  color: #FFFFFF !important;
 }
 
 .text-black-50 {
